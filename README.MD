@@ -21,8 +21,9 @@
 
 ### 🎬 Kronos II build timelapse
 
-<!-- To play inline: edit on github.com, drag media/kronos_timelapse_3x.mp4 in, and replace this link with the URL it gives -->
-[▶️ Watch the timelapse](media/kronos_timelapse_3x.mp4)
+<a href="media/kronos_timelapse_3x.mp4"><img src="media/kronos_timelapse.gif" alt="Kronos II build timelapse" width="100%"></a>
+
+<sub>Click for the full-quality video.</sub>
 
 ### 🧰 Tools
 
